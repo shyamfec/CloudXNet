@@ -1,3 +1,3 @@
 # CloudXNet
-Cloud detetction from Satelllite Images
-Code and Dataset are comming soon
+Code and Dataset for Cloud detetction from Satelllite Images  are comming soon
+
