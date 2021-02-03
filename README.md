@@ -11,5 +11,6 @@ train & test.py - This code starts with reading the dataset provided above. Then
 metrics.py - It contains the codes for all the metrices given in the paper. The required inputs are Y_test(The groundtruth) and preds_test_t(The predictions).
 For best implementation copy the different files to different cells of a google colab and run them in the order given above.
 
-The code for the architecture is a modification of the CloudNet architecture by Sorour Mohajerani which can be found here.
+The code for the architecture is a modification of the CloudNet architecture by Sorour Mohajerani which can be found here:
+https://github.com/SorourMo/Cloud-Net-A-semantic-segmentation-CNN-for-cloud-detection/tree/master/Cloud-Net
 
