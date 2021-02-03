@@ -1,5 +1,8 @@
 # CloudXNet
-CloudX-Net is an efficient and robust architecture used for detection of clouds from satellite images. It uses ASPP and Seperable Convolution to achieve high accuracy and efficiency. For details refer this paper. Here we share the CloudX-Net architecture (cxn_model.py). One of the dataset that we used to train the model can be downloaded from here.
+CloudX-Net is an efficient and robust architecture used for detection of clouds from satellite images. It uses ASPP and Seperable Convolution to achieve high accuracy and efficiency. For details refer this paper(https://www.sciencedirect.com/science/article/abs/pii/S2352938520303803)
+. Here we share the CloudX-Net architecture (cxn_model.py). One of the dataset that we used to train the model can be downloaded from here.
+https://drive.google.com/drive/folders/18QaZY_RCmjSJf_8gOXtmstqSpo6FxBft
+
 
 The description of each file is as follows:
 
